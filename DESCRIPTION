@@ -1,0 +1,22 @@
+Package: ghmgt
+Type: Package
+Title: Github project management utility functions
+Version: 0.1.0
+Authors@R: 
+    c(person(given = "Ben",
+           family = "Best",
+           role = c("aut", "cre"),
+           email = "ben@ecoquants.com",
+           comment = c(ORCID = "0000-0002-2686-0784")))
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    gh,
+    ghql,
+    glue
+RoxygenNote: 7.2.3
+URL: http://ecoquants.com/ghmgt/
