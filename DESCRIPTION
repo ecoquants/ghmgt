@@ -1,7 +1,9 @@
 Package: ghmgt
 Type: Package
 Title: Github project management utility functions
-Version: 0.1.0
+Version: 0.2.0
+URL: https://ecoquants.com/ghmgt, https://github.com/ecoquants/ghmgt
+BugReports: https://github.com/ecoquants/ghmgt/issues
 Authors@R: 
     c(person(given = "Ben",
            family = "Best",
@@ -17,6 +19,6 @@ Imports:
     dplyr,
     gh,
     ghql,
-    glue
+    glue,
+    jsonlite
 RoxygenNote: 7.2.3
-URL: http://ecoquants.com/ghmgt/
