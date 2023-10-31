@@ -19,6 +19,9 @@
     <loc>http://ecoquants.com/ghmgt/news/index.html</loc>
   </url>
   <url>
+    <loc>http://ecoquants.com/ghmgt/reference/add_project_issue.html</loc>
+  </url>
+  <url>
     <loc>http://ecoquants.com/ghmgt/reference/get_gq.html</loc>
   </url>
   <url>
@@ -28,10 +31,13 @@
     <loc>http://ecoquants.com/ghmgt/reference/get_project_id.html</loc>
   </url>
   <url>
-    <loc>http://ecoquants.com/ghmgt/reference/glueb.html</loc>
+    <loc>http://ecoquants.com/ghmgt/reference/get_project_issues.html</loc>
   </url>
   <url>
-    <loc>http://ecoquants.com/ghmgt/reference/hello.html</loc>
+    <loc>http://ecoquants.com/ghmgt/reference/get_repo_issues.html</loc>
+  </url>
+  <url>
+    <loc>http://ecoquants.com/ghmgt/reference/glueb.html</loc>
   </url>
   <url>
     <loc>http://ecoquants.com/ghmgt/reference/index.html</loc>
